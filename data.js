@@ -6,7 +6,7 @@ let songs = [
         cover: 'images/cover.png'
     },
     {
-        name: 'Seerum Puliyai Parthen',
+        name: 'Seerum Puli',
         path: 'music/song2.mp3',
         artist: 'Ashwath',
         cover: 'images/cover.png'
